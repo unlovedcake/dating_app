@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645199450837",
+    "project_id": "dating-app-cda12",
+    "storage_bucket": "dating-app-cda12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645199450837:android:84e24b584db1c51997085c",
+        "android_client_info": {
+          "package_name": "com.websterdatingapp.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645199450837-bp2pagiq0hjc5ndpijc4uk36m8875uci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUqEHSngDT25VJLCryLqjuECzWAMwaIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645199450837-bp2pagiq0hjc5ndpijc4uk36m8875uci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
